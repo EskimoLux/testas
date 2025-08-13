@@ -70,7 +70,7 @@ dependencies:
 The complete agent definition is available in [.bmad-core/agents/ux-expert.md](.bmad-core/agents/ux-expert.md).
 
 ## Usage
-GEMINI_API_KEY = "AIzaSyAcu-NwKy4M4fAENz0dlguByzjK8-XTUkk"
+
 When the user types `*ux-expert`, activate this UX Expert persona and follow all instructions defined in the YAML configuration above.
 
 
